@@ -16,7 +16,7 @@ const fs = require("fs");
 // =======================================================
 
 const adminNumber = "5542999010537@s.whatsapp.net";
-const botNumber = "5542999010537";
+const botNumber = "554299010537";
 const usePairingCode = true;
 
 // [RAFAX SYSTEM] MEMÓRIA RAM PARA O ANTI-DELETE
